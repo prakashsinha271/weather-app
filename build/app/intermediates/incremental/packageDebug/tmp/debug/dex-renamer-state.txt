@@ -1,0 +1,4 @@
+#Sun Sep 03 14:04:47 IST 2023
+base.0=/Users/zmo-mac-prakashs-02/StudioProjects/weather_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
